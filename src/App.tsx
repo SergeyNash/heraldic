@@ -83,7 +83,7 @@ const coatStyles: CoatStyle[] = [
     id: 1,
     name: "Классическая геральдика",
     description: "Традиционный геральдический стиль с четкими линиями и символическими цветами",
-    imageUrl: "/images/coat-styles/classic-heraldic.png"
+    imageUrl: "public/images/coat-styles/classic-heraldic.png"
   },
   {
     id: 2,
